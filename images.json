@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bear",
+    "image": "bear.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Cat",
+    "image": "cat.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Colorful Dog",
+    "image": "colorfuldog.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Dog",
+    "image": "dog.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Flamingo",
+    "image": "flamingo.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Horses",
+    "image": "horses.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Moose",
+    "image": "moose.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Owl",
+    "image": "owl.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Seal",
+    "image": "seal.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Tiger",
+    "image": "tiger.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Turtle",
+    "image": "turtle.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Wolf",
+    "image": "Wolf.jpg",
+    "count": 0
+  },
+]
