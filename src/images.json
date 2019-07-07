@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bear",
+    "image": "https://media.giphy.com/media/WMDVABCaUNAYM/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Cat",
+    "image": "https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Colorful Dog",
+    "image": "https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Dog",
+    "image": "https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Flamingo",
+    "image": "https://media.giphy.com/media/10gZNwuUuer5aU/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Horses",
+    "image": "https://media.giphy.com/media/ZeB5RzwVdzO8M/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Moose",
+    "image": "https://media.giphy.com/media/3ohhwCtUv31ShMPx96/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Owl",
+    "image": "https://media.giphy.com/media/qISaMW1xwmvNS/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Seal",
+    "image": "https://media.giphy.com/media/hjzuN3nStvFx6/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Tiger",
+    "image": "https://media.giphy.com/media/13HcMMr7kFTcOs/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Turtle",
+    "image": "https://media.giphy.com/media/SYXo0GITROlEs/giphy.gif",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Wolf",
+    "image": "https://media.giphy.com/media/CvgezXSuQTMTC/giphy.gif",
+    "count": 0
+  }
+]
