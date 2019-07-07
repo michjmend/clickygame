@@ -48,11 +48,11 @@ class imagesContainer extends Component {
 	render() {
 		return (
 			<div className="container-fluid mainCardContainer">
-			<div className="gameMessage text-center">
-						<p>{this.state.message}</p>
+			<div className="gameMessage text-center text-white">
+						<h2>{this.state.message}</h2>
 					</div>
-					<div className="gameScores text-center">
-						<p>Score: {this.state.score} | Top Score: {this.state.topScore}</p>
+					<div className="gameScores text-center text-white">
+						<h2>Score: {this.state.score} | Top Score: {this.state.topScore}</h2>
 					</div>
 				<div className="container">
 
